@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ The Hefei JingTong RDC(Research and Development Centre) Group.
+  ~ __________________
+  ~
+  ~    Copyright 2015-2018
+  ~    All Rights Reserved.
+  ~
+  ~    NOTICE:  All information contained herein is, and remains
+  ~    the property of JingTong Company and its suppliers,
+  ~    if any.
+  -->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>kotlindemo</groupId>
+  <artifactId>kotlindemo</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>parent</module>
+    <module>web</module>
+  </modules>
+
+
+</project>
